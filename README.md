@@ -1,5 +1,9 @@
-# Firebase Studio
+<h3>An Integrated Digital Solution for Library Occupancy & Institutional Intelligence</h3>
+<ul>
+  <li>For the Username: jcesperanza@neu.edu.ph</li>
+  <li>For the password: adminsisir123</li>
+</ul>
+<br>
 
-This is a NextJS starter in Firebase Studio.
+<h1>Visitor Experience</h1>
 
-To get started, take a look at src/app/page.tsx.
