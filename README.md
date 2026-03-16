@@ -32,7 +32,7 @@
       <li><strong>Data Integrity Monitor:</strong>Automatic flagging of identity mismatches for manual verification.</li>
     </ul>
 
-    <h3>Segmentation & Management</h3>
+<h3>Segmentation & Management</h3>
    <ul>
      <li><strong>Filter:</strong>Sort records by specific Academic Units.</li>
      <li><strong>Export:</strong>Generate PDF report for official documents and record keeping.</li>
