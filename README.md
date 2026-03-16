@@ -25,30 +25,19 @@
 
 <h2>3. Admin Terminal (Staff Management)</h2>
     
-    <h3>Live Dashboard</h3>
-
+    <h3>Live Dashboard:</h3>
     <p>The Command Center for real-time oversight:</p>
-
     <ul>
 
         <li><strong>KPI Tiles:</strong> Real-time occupancy, New Visitors Today, and active department representation.</li>
-
         <li><strong>Live Identity Hub:</strong> Real-time log showing "In" status, timestamps, and login methods.</li>
-
         <li><strong>Data Integrity Monitor:</strong> Automatic flagging of identity mismatches for manual verification.</li>
-
     </ul>
-
-
-
+    
     <h3>Segmentation & Management</h3>
-
     <ul>
-
         <li><strong>Filter:</strong> Sort records by specific Academic Units.</li>
-
         <li><strong>Export:</strong> Generate PDF report for official documents and record keeping.</li>
-
     </ul>
 
 
